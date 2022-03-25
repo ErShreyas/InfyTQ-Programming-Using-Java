@@ -3,3 +3,4 @@ Hii friends, In this repo I have provided Infosys Springboard Assignment's solut
 Dont just watch and type the code.Try yourself first then watch video. And if you think it was helpful for you then plz subscribe. your one click will make me more inspire to make more videos.
 
 <img src="png/channel.png"
+![](png/channel.png)
